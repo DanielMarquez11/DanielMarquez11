@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently developing an unannounced project in Unreal Engine while expanding my skills in both Unreal and Unity. I'm always open to discussing game development—ask me anything!
+🧑‍💻Game Developer working on Games!!
+👨‍🎓Studied Game development & IT Support
+🧑‍💻Learning Unreal engine 5 & Unity
 
 
 ## 🌐 Socials:
