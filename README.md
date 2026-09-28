@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Studying currently Programming At Howest
+👨‍🎓 Studying currently Programming At Howest <br>
 🧑‍💻Game Developer working on Games!! <br>
 👨‍🎓Studied Game development & IT Support <br>
 🧑‍💻Learning Unreal engine 5 & Unity
